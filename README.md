@@ -1,2 +1,1 @@
-# KoTA
-Korean Text Augmentation Library
+# KoTA : Korean Text Augmentation Library
